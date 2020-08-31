@@ -3,7 +3,7 @@ title: "Amazon increase income 1.5 Million"
 date: 2019-05-12T12:14:34+06:00
 image: "images/blog/post-2.jpg"
 description: "This is meta description."
-name: bobo
+name: "bobo"
 ---
 
 asdfasdfasdfasdfasdfadsfasdfa. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
